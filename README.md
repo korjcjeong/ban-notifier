@@ -54,4 +54,4 @@ right after
 and you should be good
 
 
-Any questions or concerns? File and issue
+Any questions or concerns? File an [issue](https://github.com/ddozzi/ban-notifier/issues/new)
