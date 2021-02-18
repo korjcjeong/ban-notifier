@@ -39,10 +39,19 @@ A: Make sure you use the @ of the user. If it doesnt show up its most likely bec
 ``` 
 Now copy and paste the number in this format `<@!{number}>` then execute the command. Ex. `.status <@!733932411934736385>.`
 
-# Q: The code shows the use of ban appeals but the code doesn't have any ban appeal function.
-A: You're right the code does show the use of ban appeals! RezLawd'sHelp made a great video on how to make a ban appeal bot: https://www.youtube.com/watch?v=A2415wZ2XaU. Follow the video, create a ban appeal channel and you're done!
+# Q: The code shows the use of ban appeals but it doesnt have ban appeal command.
+A: You're right the code does show the use of ban appeals! RezLawd made a great video on how to make a ban appeal bot: https://www.youtube.com/watch?v=A2415wZ2XaU. Follow the video, create a ban appeal channel and you're done!
 
-# Q: How can I disable commands for people that aren't mod/admin/owner etc.?
-A:
+# Q: How can I disable commands for people that aren't mod, admin, owner etc.?
+A: Just add: 
+```
+@commands.has_permissions(manage_messages=True)
+```
+right after 
+```
+@client.commands()
+```
+and you should be good
 
-More FAQs will be added as issue arise
+
+Any questions or concerns? File and issue
