@@ -23,6 +23,7 @@ You can see some commands using .help but here's a list of all.
 - .reject {user} rejects a ban appeal
 - .fakeban {user} sends fake ban appeal message to user
 - .fakeunban {user} sends fake unban message to user
+- .getid {user} get discord id of user
 
 That's all the commands.
 
