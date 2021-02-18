@@ -36,6 +36,6 @@ A: Make sure you use the @ of the user. If it doesnt show up its most likely bec
 ```
 [15:32:46.703717] Banned abc123#0669 with user id of <@!733932411934736385> for reason: None
 ``` 
-. Now copy and paste the number in this format `<@!{number}>` then execute the command. `Ex. .status <@!733932411934736385>.`
+Now copy and paste the number in this format `<@!{number}>` then execute the command. Ex. `.status <@!733932411934736385>.`
 
 More FAQs will be added as issue arise
