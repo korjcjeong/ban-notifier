@@ -4,8 +4,7 @@ A simple bot for bans and mutes
 
 # Setup
 
-Setting up this bot is quite simple, just create a second discord server and get all of the members in your main discord to join.
-Make sure you also have the bot in the secondary server as well. That's it. 
+Setting up the bot is quite simple, just fill in all the blanks that say [INSERT] in the code and create a second discord server and get all of the members in your main discord to join. Make sure you also have the bot in the secondary server as well. That's it. 
 
 
 # Usage
