@@ -28,13 +28,10 @@ That's all the commands.
 
 # FAQ
 
-Q: Why do I need to create a secondary server?
+# Q: Why do I need to create a secondary server?
 A: It isn't neccesarry but it is if you want to let the person know that they are unbanned.
 
-Q: Help! The commands aren't working!
+# Q: Help! The commands aren't working!
 A: Make sure you use the @ of the user. If it doesnt show up its most likely because they are banned or left the server. If they were banned and you want to use a command on them go to log.txt and find the user id, it should look something like this: [15:32:46.703717] Banned abc123#0669 with user id of <@!733932411934736385> for reason: None. Now copy and paste the number in this format <@!{number}> then execute the command. Ex. .status <@!733932411934736385>.
-
-Q: Help!
-A: With what?
 
 More FAQs will be added as issue arise
